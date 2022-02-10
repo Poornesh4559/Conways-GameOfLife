@@ -1,12 +1,8 @@
 import os
 import random
-from matplotlib.pyplot import pause, sca
 import numpy as np
 import pygame
 import time
-from sklearn import neighbors
-
-from sympy import false, true
 
 os.environ['SDL_VIDEO_CENTERED'] = '1'
 
